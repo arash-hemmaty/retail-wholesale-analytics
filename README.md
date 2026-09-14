@@ -232,6 +232,12 @@ The dashboard enables users to move from high-level business performance to more
 
 ---
 
+## Customers & Geography
+
+Analysis of customer performance and geographic distribution to identify important customer and market patterns.
+
+---
+
 ## Inventory & Supply Chain Analysis
 
 The project includes inventory analysis designed to support supply-chain decision making.
