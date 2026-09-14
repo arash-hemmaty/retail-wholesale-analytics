@@ -64,6 +64,22 @@ Business Insights
 
 ---
 
+## Key Findings
+
+The analysis identified several important commercial and operational patterns:
+
+- One customer accounts for approximately 54.8% of total recorded sales, indicating significant customer concentration.
+- Lego & Construction is the largest sales category, representing approximately 25.5% of total sales.
+- The top two categories account for approximately 45.8% of total recorded sales.
+- Summer is the strongest season, representing approximately 30.5% of total sales.
+- The leading product contributes approximately 19.0% of total recorded sales.
+- The 90-day Prophet forecast estimates approximately 15.86B in future sales across the forecast horizon.
+- Association-rule mining identifies product combinations with lift values above 1, indicating non-random co-occurrence patterns.
+
+For a detailed interpretation of the findings, see the [Business Insights](docs/business_insights.md) document.
+
+---
+
 ## Dataset
 
 The project uses a synthetic retail and wholesale dataset generated with Python.
