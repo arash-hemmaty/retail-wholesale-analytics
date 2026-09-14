@@ -1,0 +1,68 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Power BI
+# =========================
+
+*.pbix
+*.pbit
+
+# =========================
+# Environment variables
+# =========================
+
+.env
+.env.*
+
+# =========================
+# Logs / temporary files
+# =========================
+
+*.log
+tmp/
+temp/
+
+# =========================
+# Local generated data
+# =========================
+
+data/clean/
+
+# =========================
+# Raw/local datasets
+# =========================
+
+data/raw/generate_fact_sales.py
+generate_fact_sales.py
+scripts/debug_forecast.py
