@@ -200,20 +200,61 @@ See the [Data Model](docs/data_model.md) for detailed relationship information.
 
 ## Power BI Dashboard
 
-The Power BI report provides an interactive business intelligence layer covering:
+The Power BI report provides an interactive business intelligence layer covering commercial performance, product analysis, customer behavior, geographic performance, inventory and supply-chain conditions, sales forecasting, and market basket analysis.
 
-* Executive Summary
-* Sales Analysis
-* Product Performance
-* Customer & Geography
-* Inventory & Supply Chain
-* 90-Day Forecast
-* Market Basket Analysis
-* Q&A
+### Executive Summary
 
-### Dashboard Preview
+High-level view of commercial performance and key business KPIs.
 
-*Power BI dashboard screenshots will be added here.*
+![Executive Summary](powerbi/screenshots/01-executive-summary.png)
+
+---
+
+### Sales Analysis
+
+Detailed analysis of sales trends, commercial performance, and revenue drivers.
+
+![Sales Analysis](powerbi/screenshots/02-sales-analysis.png)
+
+---
+
+### Product Performance
+
+Product- and category-level analysis designed to identify key contributors and performance patterns.
+
+![Product Performance](powerbi/screenshots/03-product-performance.png)
+
+---
+
+### Customers & Geography
+
+Analysis of customer performance and geographic distribution to identify important customer and market patterns.
+
+![Customers & Geography](powerbi/screenshots/04-customers-geography.png)
+
+---
+
+### Inventory & Supply Chain
+
+Analysis of inventory availability, replenishment conditions, minimum stock levels, supplier lead times, and quantity ordered.
+
+![Inventory & Supply Chain](powerbi/screenshots/05-inventory-supply-chain.png)
+
+---
+
+### 90-Day Forecast
+
+Sales forecasting using Prophet with a 90-day horizon and prediction intervals.
+
+![90-Day Forecast](powerbi/screenshots/06-forecast.png)
+
+---
+
+### Market Basket Analysis
+
+Association-rule analysis using Apriori, with results evaluated using support, confidence, and lift.
+
+![Market Basket Analysis](powerbi/screenshots/07-market-basket.png)
 
 ---
 
